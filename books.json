@@ -1,0 +1,7862 @@
+[
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "GEN.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "GEN.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "GEN.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "GEN.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "GEN.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "GEN.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "GEN.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "GEN.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "GEN.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "GEN.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "GEN.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "GEN.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "GEN.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "GEN.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "GEN.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "GEN.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "GEN.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "GEN.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "GEN.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "GEN.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "GEN.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "GEN.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "GEN.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "GEN.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "GEN.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "GEN.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "GEN.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "GEN.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "GEN.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "GEN.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "GEN.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "GEN.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "GEN.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "GEN.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "GEN.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "GEN.36"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "37",
+        "usfm": "GEN.37"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "38",
+        "usfm": "GEN.38"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "39",
+        "usfm": "GEN.39"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "40",
+        "usfm": "GEN.40"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "41",
+        "usfm": "GEN.41"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "42",
+        "usfm": "GEN.42"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "43",
+        "usfm": "GEN.43"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "44",
+        "usfm": "GEN.44"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "45",
+        "usfm": "GEN.45"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "46",
+        "usfm": "GEN.46"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "47",
+        "usfm": "GEN.47"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "48",
+        "usfm": "GEN.48"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "49",
+        "usfm": "GEN.49"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "50",
+        "usfm": "GEN.50"
+      }
+    ],
+    "usfm": "GEN",
+    "abbreviation": "Битие",
+    "human": "Битие",
+    "audio": true,
+    "human_long": "Битие"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "EXO.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "EXO.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "EXO.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "EXO.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "EXO.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "EXO.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "EXO.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "EXO.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "EXO.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "EXO.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "EXO.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "EXO.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "EXO.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "EXO.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "EXO.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "EXO.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "EXO.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "EXO.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "EXO.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "EXO.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "EXO.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "EXO.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "EXO.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "EXO.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "EXO.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "EXO.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "EXO.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "EXO.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "EXO.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "EXO.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "EXO.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "EXO.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "EXO.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "EXO.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "EXO.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "EXO.36"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "37",
+        "usfm": "EXO.37"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "38",
+        "usfm": "EXO.38"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "39",
+        "usfm": "EXO.39"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "40",
+        "usfm": "EXO.40"
+      }
+    ],
+    "usfm": "EXO",
+    "abbreviation": "Изход",
+    "human": "Изход",
+    "audio": true,
+    "human_long": "Изход"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "LEV.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "LEV.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "LEV.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "LEV.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "LEV.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "LEV.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "LEV.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "LEV.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "LEV.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "LEV.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "LEV.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "LEV.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "LEV.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "LEV.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "LEV.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "LEV.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "LEV.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "LEV.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "LEV.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "LEV.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "LEV.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "LEV.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "LEV.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "LEV.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "LEV.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "LEV.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "LEV.27"
+      }
+    ],
+    "usfm": "LEV",
+    "abbreviation": "Левит",
+    "human": "Левит",
+    "audio": true,
+    "human_long": "Левит"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "NUM.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "NUM.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "NUM.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "NUM.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "NUM.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "NUM.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "NUM.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "NUM.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "NUM.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "NUM.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "NUM.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "NUM.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "NUM.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "NUM.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "NUM.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "NUM.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "NUM.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "NUM.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "NUM.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "NUM.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "NUM.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "NUM.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "NUM.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "NUM.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "NUM.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "NUM.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "NUM.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "NUM.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "NUM.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "NUM.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "NUM.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "NUM.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "NUM.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "NUM.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "NUM.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "NUM.36"
+      }
+    ],
+    "usfm": "NUM",
+    "abbreviation": "Числа",
+    "human": "Числа",
+    "audio": true,
+    "human_long": "Числа"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "DEU.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "DEU.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "DEU.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "DEU.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "DEU.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "DEU.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "DEU.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "DEU.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "DEU.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "DEU.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "DEU.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "DEU.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "DEU.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "DEU.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "DEU.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "DEU.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "DEU.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "DEU.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "DEU.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "DEU.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "DEU.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "DEU.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "DEU.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "DEU.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "DEU.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "DEU.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "DEU.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "DEU.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "DEU.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "DEU.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "DEU.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "DEU.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "DEU.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "DEU.34"
+      }
+    ],
+    "usfm": "DEU",
+    "abbreviation": "Второзаконие",
+    "human": "Второзаконие",
+    "audio": true,
+    "human_long": "Второзаконие"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JOS.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "JOS.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "JOS.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "JOS.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "JOS.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "JOS.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "JOS.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "JOS.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "JOS.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "JOS.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "JOS.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "JOS.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "JOS.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "JOS.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "JOS.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "JOS.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "JOS.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "JOS.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "JOS.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "JOS.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "JOS.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "JOS.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "JOS.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "JOS.24"
+      }
+    ],
+    "usfm": "JOS",
+    "abbreviation": "Исус Навиев",
+    "human": "Исус Навиев",
+    "audio": true,
+    "human_long": "Исус Навиев"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JDG.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "JDG.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "JDG.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "JDG.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "JDG.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "JDG.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "JDG.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "JDG.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "JDG.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "JDG.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "JDG.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "JDG.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "JDG.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "JDG.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "JDG.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "JDG.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "JDG.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "JDG.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "JDG.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "JDG.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "JDG.21"
+      }
+    ],
+    "usfm": "JDG",
+    "abbreviation": "Съдии",
+    "human": "Съдии",
+    "audio": true,
+    "human_long": "Съдии"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "RUT.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "RUT.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "RUT.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "RUT.4"
+      }
+    ],
+    "usfm": "RUT",
+    "abbreviation": "Рут",
+    "human": "Рут",
+    "audio": true,
+    "human_long": "Рут"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "1SA.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "1SA.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "1SA.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "1SA.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "1SA.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "1SA.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "1SA.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "1SA.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "1SA.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "1SA.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "1SA.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "1SA.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "1SA.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "1SA.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "1SA.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "1SA.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "1SA.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "1SA.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "1SA.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "1SA.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "1SA.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "1SA.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "1SA.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "1SA.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "1SA.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "1SA.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "1SA.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "1SA.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "1SA.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "1SA.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "1SA.31"
+      }
+    ],
+    "usfm": "1SA",
+    "abbreviation": "1 Царе",
+    "human": "1 Царе",
+    "audio": true,
+    "human_long": "1 Царе"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "2SA.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "2SA.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "2SA.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "2SA.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "2SA.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "2SA.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "2SA.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "2SA.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "2SA.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "2SA.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "2SA.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "2SA.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "2SA.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "2SA.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "2SA.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "2SA.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "2SA.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "2SA.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "2SA.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "2SA.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "2SA.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "2SA.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "2SA.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "2SA.24"
+      }
+    ],
+    "usfm": "2SA",
+    "abbreviation": "2 Царе",
+    "human": "2 Царе",
+    "audio": true,
+    "human_long": "2 Царе"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "1KI.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "1KI.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "1KI.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "1KI.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "1KI.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "1KI.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "1KI.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "1KI.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "1KI.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "1KI.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "1KI.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "1KI.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "1KI.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "1KI.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "1KI.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "1KI.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "1KI.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "1KI.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "1KI.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "1KI.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "1KI.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "1KI.22"
+      }
+    ],
+    "usfm": "1KI",
+    "abbreviation": "3 Царе",
+    "human": "3 Царе",
+    "audio": true,
+    "human_long": "3 Царе"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "2KI.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "2KI.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "2KI.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "2KI.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "2KI.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "2KI.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "2KI.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "2KI.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "2KI.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "2KI.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "2KI.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "2KI.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "2KI.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "2KI.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "2KI.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "2KI.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "2KI.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "2KI.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "2KI.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "2KI.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "2KI.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "2KI.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "2KI.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "2KI.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "2KI.25"
+      }
+    ],
+    "usfm": "2KI",
+    "abbreviation": "4 Царе",
+    "human": "4 Царе",
+    "audio": true,
+    "human_long": "4 Царе"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "1CH.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "1CH.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "1CH.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "1CH.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "1CH.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "1CH.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "1CH.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "1CH.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "1CH.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "1CH.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "1CH.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "1CH.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "1CH.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "1CH.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "1CH.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "1CH.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "1CH.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "1CH.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "1CH.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "1CH.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "1CH.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "1CH.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "1CH.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "1CH.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "1CH.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "1CH.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "1CH.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "1CH.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "1CH.29"
+      }
+    ],
+    "usfm": "1CH",
+    "abbreviation": "1 Летописи",
+    "human": "1 Летописи",
+    "audio": true,
+    "human_long": "1 Летописи"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "2CH.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "2CH.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "2CH.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "2CH.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "2CH.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "2CH.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "2CH.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "2CH.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "2CH.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "2CH.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "2CH.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "2CH.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "2CH.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "2CH.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "2CH.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "2CH.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "2CH.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "2CH.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "2CH.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "2CH.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "2CH.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "2CH.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "2CH.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "2CH.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "2CH.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "2CH.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "2CH.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "2CH.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "2CH.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "2CH.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "2CH.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "2CH.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "2CH.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "2CH.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "2CH.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "2CH.36"
+      }
+    ],
+    "usfm": "2CH",
+    "abbreviation": "2 Летописи",
+    "human": "2 Летописи",
+    "audio": true,
+    "human_long": "2 Летописи"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "EZR.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "EZR.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "EZR.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "EZR.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "EZR.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "EZR.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "EZR.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "EZR.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "EZR.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "EZR.10"
+      }
+    ],
+    "usfm": "EZR",
+    "abbreviation": "Ездра",
+    "human": "Ездра",
+    "audio": true,
+    "human_long": "Ездра"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "NEH.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "NEH.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "NEH.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "NEH.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "NEH.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "NEH.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "NEH.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "NEH.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "NEH.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "NEH.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "NEH.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "NEH.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "NEH.13"
+      }
+    ],
+    "usfm": "NEH",
+    "abbreviation": "Неемия",
+    "human": "Неемия",
+    "audio": true,
+    "human_long": "Неемия"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "EST.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "EST.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "EST.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "EST.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "EST.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "EST.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "EST.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "EST.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "EST.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "EST.10"
+      }
+    ],
+    "usfm": "EST",
+    "abbreviation": "Естир",
+    "human": "Естир",
+    "audio": true,
+    "human_long": "Естир"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JOB.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "JOB.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "JOB.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "JOB.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "JOB.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "JOB.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "JOB.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "JOB.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "JOB.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "JOB.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "JOB.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "JOB.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "JOB.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "JOB.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "JOB.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "JOB.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "JOB.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "JOB.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "JOB.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "JOB.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "JOB.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "JOB.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "JOB.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "JOB.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "JOB.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "JOB.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "JOB.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "JOB.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "JOB.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "JOB.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "JOB.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "JOB.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "JOB.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "JOB.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "JOB.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "JOB.36"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "37",
+        "usfm": "JOB.37"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "38",
+        "usfm": "JOB.38"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "39",
+        "usfm": "JOB.39"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "40",
+        "usfm": "JOB.40"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "41",
+        "usfm": "JOB.41"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "42",
+        "usfm": "JOB.42"
+      }
+    ],
+    "usfm": "JOB",
+    "abbreviation": "Йов",
+    "human": "Йов",
+    "audio": true,
+    "human_long": "Йов"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "PSA.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "PSA.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "PSA.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "PSA.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "PSA.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "PSA.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "PSA.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "PSA.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "PSA.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "PSA.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "PSA.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "PSA.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "PSA.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "PSA.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "PSA.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "PSA.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "PSA.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "PSA.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "PSA.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "PSA.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "PSA.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "PSA.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "PSA.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "PSA.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "PSA.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "PSA.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "PSA.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "PSA.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "PSA.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "PSA.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "PSA.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "PSA.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "PSA.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "PSA.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "PSA.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "PSA.36"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "37",
+        "usfm": "PSA.37"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "38",
+        "usfm": "PSA.38"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "39",
+        "usfm": "PSA.39"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "40",
+        "usfm": "PSA.40"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "41",
+        "usfm": "PSA.41"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "42",
+        "usfm": "PSA.42"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "43",
+        "usfm": "PSA.43"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "44",
+        "usfm": "PSA.44"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "45",
+        "usfm": "PSA.45"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "46",
+        "usfm": "PSA.46"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "47",
+        "usfm": "PSA.47"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "48",
+        "usfm": "PSA.48"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "49",
+        "usfm": "PSA.49"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "50",
+        "usfm": "PSA.50"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "51",
+        "usfm": "PSA.51"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "52",
+        "usfm": "PSA.52"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "53",
+        "usfm": "PSA.53"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "54",
+        "usfm": "PSA.54"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "55",
+        "usfm": "PSA.55"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "56",
+        "usfm": "PSA.56"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "57",
+        "usfm": "PSA.57"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "58",
+        "usfm": "PSA.58"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "59",
+        "usfm": "PSA.59"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "60",
+        "usfm": "PSA.60"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "61",
+        "usfm": "PSA.61"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "62",
+        "usfm": "PSA.62"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "63",
+        "usfm": "PSA.63"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "64",
+        "usfm": "PSA.64"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "65",
+        "usfm": "PSA.65"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "66",
+        "usfm": "PSA.66"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "67",
+        "usfm": "PSA.67"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "68",
+        "usfm": "PSA.68"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "69",
+        "usfm": "PSA.69"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "70",
+        "usfm": "PSA.70"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "71",
+        "usfm": "PSA.71"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "72",
+        "usfm": "PSA.72"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "73",
+        "usfm": "PSA.73"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "74",
+        "usfm": "PSA.74"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "75",
+        "usfm": "PSA.75"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "76",
+        "usfm": "PSA.76"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "77",
+        "usfm": "PSA.77"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "78",
+        "usfm": "PSA.78"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "79",
+        "usfm": "PSA.79"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "80",
+        "usfm": "PSA.80"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "81",
+        "usfm": "PSA.81"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "82",
+        "usfm": "PSA.82"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "83",
+        "usfm": "PSA.83"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "84",
+        "usfm": "PSA.84"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "85",
+        "usfm": "PSA.85"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "86",
+        "usfm": "PSA.86"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "87",
+        "usfm": "PSA.87"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "88",
+        "usfm": "PSA.88"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "89",
+        "usfm": "PSA.89"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "90",
+        "usfm": "PSA.90"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "91",
+        "usfm": "PSA.91"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "92",
+        "usfm": "PSA.92"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "93",
+        "usfm": "PSA.93"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "94",
+        "usfm": "PSA.94"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "95",
+        "usfm": "PSA.95"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "96",
+        "usfm": "PSA.96"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "97",
+        "usfm": "PSA.97"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "98",
+        "usfm": "PSA.98"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "99",
+        "usfm": "PSA.99"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "100",
+        "usfm": "PSA.100"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "101",
+        "usfm": "PSA.101"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "102",
+        "usfm": "PSA.102"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "103",
+        "usfm": "PSA.103"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "104",
+        "usfm": "PSA.104"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "105",
+        "usfm": "PSA.105"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "106",
+        "usfm": "PSA.106"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "107",
+        "usfm": "PSA.107"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "108",
+        "usfm": "PSA.108"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "109",
+        "usfm": "PSA.109"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "110",
+        "usfm": "PSA.110"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "111",
+        "usfm": "PSA.111"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "112",
+        "usfm": "PSA.112"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "113",
+        "usfm": "PSA.113"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "114",
+        "usfm": "PSA.114"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "115",
+        "usfm": "PSA.115"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "116",
+        "usfm": "PSA.116"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "117",
+        "usfm": "PSA.117"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "118",
+        "usfm": "PSA.118"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "119",
+        "usfm": "PSA.119"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "120",
+        "usfm": "PSA.120"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "121",
+        "usfm": "PSA.121"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "122",
+        "usfm": "PSA.122"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "123",
+        "usfm": "PSA.123"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "124",
+        "usfm": "PSA.124"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "125",
+        "usfm": "PSA.125"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "126",
+        "usfm": "PSA.126"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "127",
+        "usfm": "PSA.127"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "128",
+        "usfm": "PSA.128"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "129",
+        "usfm": "PSA.129"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "130",
+        "usfm": "PSA.130"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "131",
+        "usfm": "PSA.131"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "132",
+        "usfm": "PSA.132"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "133",
+        "usfm": "PSA.133"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "134",
+        "usfm": "PSA.134"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "135",
+        "usfm": "PSA.135"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "136",
+        "usfm": "PSA.136"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "137",
+        "usfm": "PSA.137"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "138",
+        "usfm": "PSA.138"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "139",
+        "usfm": "PSA.139"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "140",
+        "usfm": "PSA.140"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "141",
+        "usfm": "PSA.141"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "142",
+        "usfm": "PSA.142"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "143",
+        "usfm": "PSA.143"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "144",
+        "usfm": "PSA.144"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "145",
+        "usfm": "PSA.145"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "146",
+        "usfm": "PSA.146"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "147",
+        "usfm": "PSA.147"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "148",
+        "usfm": "PSA.148"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "149",
+        "usfm": "PSA.149"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "150",
+        "usfm": "PSA.150"
+      }
+    ],
+    "usfm": "PSA",
+    "abbreviation": "Псалми",
+    "human": "Псалми",
+    "audio": true,
+    "human_long": "Псалми"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "PRO.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "PRO.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "PRO.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "PRO.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "PRO.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "PRO.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "PRO.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "PRO.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "PRO.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "PRO.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "PRO.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "PRO.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "PRO.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "PRO.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "PRO.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "PRO.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "PRO.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "PRO.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "PRO.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "PRO.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "PRO.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "PRO.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "PRO.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "PRO.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "PRO.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "PRO.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "PRO.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "PRO.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "PRO.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "PRO.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "PRO.31"
+      }
+    ],
+    "usfm": "PRO",
+    "abbreviation": "Притчи",
+    "human": "Притчи",
+    "audio": true,
+    "human_long": "Притчи"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "ECC.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "ECC.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "ECC.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "ECC.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "ECC.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "ECC.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "ECC.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "ECC.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "ECC.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "ECC.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "ECC.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "ECC.12"
+      }
+    ],
+    "usfm": "ECC",
+    "abbreviation": "Еклесиаст",
+    "human": "Еклесиаст",
+    "audio": true,
+    "human_long": "Еклесиаст"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "SNG.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "SNG.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "SNG.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "SNG.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "SNG.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "SNG.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "SNG.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "SNG.8"
+      }
+    ],
+    "usfm": "SNG",
+    "abbreviation": "Песен на песните",
+    "human": "Песен на песните",
+    "audio": true,
+    "human_long": "Песен на песните"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "ISA.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "ISA.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "ISA.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "ISA.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "ISA.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "ISA.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "ISA.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "ISA.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "ISA.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "ISA.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "ISA.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "ISA.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "ISA.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "ISA.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "ISA.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "ISA.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "ISA.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "ISA.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "ISA.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "ISA.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "ISA.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "ISA.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "ISA.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "ISA.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "ISA.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "ISA.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "ISA.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "ISA.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "ISA.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "ISA.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "ISA.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "ISA.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "ISA.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "ISA.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "ISA.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "ISA.36"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "37",
+        "usfm": "ISA.37"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "38",
+        "usfm": "ISA.38"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "39",
+        "usfm": "ISA.39"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "40",
+        "usfm": "ISA.40"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "41",
+        "usfm": "ISA.41"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "42",
+        "usfm": "ISA.42"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "43",
+        "usfm": "ISA.43"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "44",
+        "usfm": "ISA.44"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "45",
+        "usfm": "ISA.45"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "46",
+        "usfm": "ISA.46"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "47",
+        "usfm": "ISA.47"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "48",
+        "usfm": "ISA.48"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "49",
+        "usfm": "ISA.49"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "50",
+        "usfm": "ISA.50"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "51",
+        "usfm": "ISA.51"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "52",
+        "usfm": "ISA.52"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "53",
+        "usfm": "ISA.53"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "54",
+        "usfm": "ISA.54"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "55",
+        "usfm": "ISA.55"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "56",
+        "usfm": "ISA.56"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "57",
+        "usfm": "ISA.57"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "58",
+        "usfm": "ISA.58"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "59",
+        "usfm": "ISA.59"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "60",
+        "usfm": "ISA.60"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "61",
+        "usfm": "ISA.61"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "62",
+        "usfm": "ISA.62"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "63",
+        "usfm": "ISA.63"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "64",
+        "usfm": "ISA.64"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "65",
+        "usfm": "ISA.65"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "66",
+        "usfm": "ISA.66"
+      }
+    ],
+    "usfm": "ISA",
+    "abbreviation": "Исая",
+    "human": "Исая",
+    "audio": true,
+    "human_long": "Исая"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JER.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "JER.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "JER.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "JER.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "JER.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "JER.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "JER.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "JER.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "JER.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "JER.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "JER.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "JER.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "JER.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "JER.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "JER.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "JER.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "JER.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "JER.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "JER.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "JER.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "JER.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "JER.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "JER.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "JER.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "JER.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "JER.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "JER.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "JER.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "JER.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "JER.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "JER.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "JER.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "JER.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "JER.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "JER.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "JER.36"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "37",
+        "usfm": "JER.37"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "38",
+        "usfm": "JER.38"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "39",
+        "usfm": "JER.39"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "40",
+        "usfm": "JER.40"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "41",
+        "usfm": "JER.41"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "42",
+        "usfm": "JER.42"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "43",
+        "usfm": "JER.43"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "44",
+        "usfm": "JER.44"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "45",
+        "usfm": "JER.45"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "46",
+        "usfm": "JER.46"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "47",
+        "usfm": "JER.47"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "48",
+        "usfm": "JER.48"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "49",
+        "usfm": "JER.49"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "50",
+        "usfm": "JER.50"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "51",
+        "usfm": "JER.51"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "52",
+        "usfm": "JER.52"
+      }
+    ],
+    "usfm": "JER",
+    "abbreviation": "Еремия",
+    "human": "Еремия",
+    "audio": true,
+    "human_long": "Еремия"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "LAM.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "LAM.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "LAM.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "LAM.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "LAM.5"
+      }
+    ],
+    "usfm": "LAM",
+    "abbreviation": "Плач Еремиев",
+    "human": "Плач Еремиев",
+    "audio": true,
+    "human_long": "Плач Еремиев"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "EZK.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "EZK.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "EZK.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "EZK.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "EZK.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "EZK.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "EZK.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "EZK.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "EZK.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "EZK.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "EZK.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "EZK.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "EZK.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "EZK.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "EZK.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "EZK.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "EZK.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "EZK.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "EZK.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "EZK.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "EZK.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "EZK.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "EZK.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "EZK.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "EZK.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "EZK.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "EZK.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "EZK.28"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "29",
+        "usfm": "EZK.29"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "30",
+        "usfm": "EZK.30"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "31",
+        "usfm": "EZK.31"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "32",
+        "usfm": "EZK.32"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "33",
+        "usfm": "EZK.33"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "34",
+        "usfm": "EZK.34"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "35",
+        "usfm": "EZK.35"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "36",
+        "usfm": "EZK.36"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "37",
+        "usfm": "EZK.37"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "38",
+        "usfm": "EZK.38"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "39",
+        "usfm": "EZK.39"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "40",
+        "usfm": "EZK.40"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "41",
+        "usfm": "EZK.41"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "42",
+        "usfm": "EZK.42"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "43",
+        "usfm": "EZK.43"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "44",
+        "usfm": "EZK.44"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "45",
+        "usfm": "EZK.45"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "46",
+        "usfm": "EZK.46"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "47",
+        "usfm": "EZK.47"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "48",
+        "usfm": "EZK.48"
+      }
+    ],
+    "usfm": "EZK",
+    "abbreviation": "Езекил",
+    "human": "Езекил",
+    "audio": true,
+    "human_long": "Езекил"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "DAN.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "DAN.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "DAN.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "DAN.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "DAN.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "DAN.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "DAN.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "DAN.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "DAN.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "DAN.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "DAN.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "DAN.12"
+      }
+    ],
+    "usfm": "DAN",
+    "abbreviation": "Данаил",
+    "human": "Данаил",
+    "audio": true,
+    "human_long": "Данаил"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "HOS.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "HOS.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "HOS.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "HOS.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "HOS.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "HOS.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "HOS.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "HOS.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "HOS.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "HOS.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "HOS.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "HOS.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "HOS.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "HOS.14"
+      }
+    ],
+    "usfm": "HOS",
+    "abbreviation": "Осия",
+    "human": "Осия",
+    "audio": true,
+    "human_long": "Осия"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JOL.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "JOL.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "JOL.3"
+      }
+    ],
+    "usfm": "JOL",
+    "abbreviation": "Иоил",
+    "human": "Иоил",
+    "audio": true,
+    "human_long": "Иоил"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "AMO.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "AMO.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "AMO.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "AMO.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "AMO.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "AMO.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "AMO.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "AMO.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "AMO.9"
+      }
+    ],
+    "usfm": "AMO",
+    "abbreviation": "Амос",
+    "human": "Амос",
+    "audio": true,
+    "human_long": "Амос"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "OBA.1"
+      }
+    ],
+    "usfm": "OBA",
+    "abbreviation": "Авдий",
+    "human": "Авдий",
+    "audio": true,
+    "human_long": "Авдий"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JON.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "JON.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "JON.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "JON.4"
+      }
+    ],
+    "usfm": "JON",
+    "abbreviation": "Йон",
+    "human": "Йон",
+    "audio": true,
+    "human_long": "Йон"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "MIC.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "MIC.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "MIC.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "MIC.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "MIC.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "MIC.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "MIC.7"
+      }
+    ],
+    "usfm": "MIC",
+    "abbreviation": "Михей",
+    "human": "Михей",
+    "audio": true,
+    "human_long": "Михей"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "NAM.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "NAM.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "NAM.3"
+      }
+    ],
+    "usfm": "NAM",
+    "abbreviation": "Наум",
+    "human": "Наум",
+    "audio": true,
+    "human_long": "Наум"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "HAB.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "HAB.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "HAB.3"
+      }
+    ],
+    "usfm": "HAB",
+    "abbreviation": "Авакум",
+    "human": "Авакум",
+    "audio": true,
+    "human_long": "Авакум"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "ZEP.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "ZEP.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "ZEP.3"
+      }
+    ],
+    "usfm": "ZEP",
+    "abbreviation": "Софоний",
+    "human": "Софоний",
+    "audio": true,
+    "human_long": "Софоний"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "HAG.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "HAG.2"
+      }
+    ],
+    "usfm": "HAG",
+    "abbreviation": "Агей",
+    "human": "Агей",
+    "audio": true,
+    "human_long": "Агей"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "ZEC.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "ZEC.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "ZEC.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "ZEC.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "ZEC.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "ZEC.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "ZEC.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "ZEC.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "ZEC.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "ZEC.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "ZEC.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "ZEC.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "ZEC.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "ZEC.14"
+      }
+    ],
+    "usfm": "ZEC",
+    "abbreviation": "Захария",
+    "human": "Захария",
+    "audio": true,
+    "human_long": "Захария"
+  },
+  {
+    "text": true,
+    "canon": "ot",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "MAL.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "MAL.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "MAL.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "MAL.4"
+      }
+    ],
+    "usfm": "MAL",
+    "abbreviation": "Малахия",
+    "human": "Малахия",
+    "audio": true,
+    "human_long": "Малахия"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "MAT.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "MAT.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "MAT.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "MAT.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "MAT.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "MAT.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "MAT.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "MAT.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "MAT.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "MAT.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "MAT.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "MAT.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "MAT.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "MAT.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "MAT.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "MAT.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "MAT.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "MAT.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "MAT.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "MAT.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "MAT.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "MAT.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "MAT.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "MAT.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "MAT.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "MAT.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "MAT.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "MAT.28"
+      }
+    ],
+    "usfm": "MAT",
+    "abbreviation": "Матей",
+    "human": "Матей",
+    "audio": true,
+    "human_long": "Матей"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "MRK.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "MRK.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "MRK.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "MRK.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "MRK.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "MRK.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "MRK.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "MRK.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "MRK.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "MRK.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "MRK.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "MRK.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "MRK.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "MRK.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "MRK.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "MRK.16"
+      }
+    ],
+    "usfm": "MRK",
+    "abbreviation": "Марко",
+    "human": "Марко",
+    "audio": true,
+    "human_long": "Марко"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "LUK.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "LUK.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "LUK.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "LUK.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "LUK.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "LUK.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "LUK.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "LUK.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "LUK.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "LUK.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "LUK.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "LUK.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "LUK.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "LUK.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "LUK.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "LUK.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "LUK.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "LUK.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "LUK.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "LUK.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "LUK.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "LUK.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "LUK.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "LUK.24"
+      }
+    ],
+    "usfm": "LUK",
+    "abbreviation": "Лука",
+    "human": "Лука",
+    "audio": true,
+    "human_long": "Лука"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JHN.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "JHN.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "JHN.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "JHN.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "JHN.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "JHN.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "JHN.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "JHN.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "JHN.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "JHN.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "JHN.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "JHN.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "JHN.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "JHN.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "JHN.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "JHN.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "JHN.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "JHN.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "JHN.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "JHN.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "JHN.21"
+      }
+    ],
+    "usfm": "JHN",
+    "abbreviation": "Йоан",
+    "human": "Йоан",
+    "audio": true,
+    "human_long": "Йоан"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "ACT.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "ACT.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "ACT.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "ACT.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "ACT.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "ACT.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "ACT.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "ACT.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "ACT.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "ACT.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "ACT.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "ACT.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "ACT.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "ACT.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "ACT.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "ACT.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "ACT.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "ACT.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "ACT.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "ACT.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "ACT.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "ACT.22"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "23",
+        "usfm": "ACT.23"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "24",
+        "usfm": "ACT.24"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "25",
+        "usfm": "ACT.25"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "26",
+        "usfm": "ACT.26"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "27",
+        "usfm": "ACT.27"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "28",
+        "usfm": "ACT.28"
+      }
+    ],
+    "usfm": "ACT",
+    "abbreviation": "Деяния",
+    "human": "Деяния",
+    "audio": true,
+    "human_long": "Деяния"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JAS.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "JAS.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "JAS.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "JAS.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "JAS.5"
+      }
+    ],
+    "usfm": "JAS",
+    "abbreviation": "Яков",
+    "human": "Яков",
+    "audio": true,
+    "human_long": "Яков"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "1PE.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "1PE.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "1PE.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "1PE.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "1PE.5"
+      }
+    ],
+    "usfm": "1PE",
+    "abbreviation": "1 Петрово",
+    "human": "1 Петрово",
+    "audio": true,
+    "human_long": "1 Петрово"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "2PE.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "2PE.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "2PE.3"
+      }
+    ],
+    "usfm": "2PE",
+    "abbreviation": "2 Петрово",
+    "human": "2 Петрово",
+    "audio": true,
+    "human_long": "2 Петрово"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "1JN.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "1JN.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "1JN.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "1JN.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "1JN.5"
+      }
+    ],
+    "usfm": "1JN",
+    "abbreviation": "1 Йоаново",
+    "human": "1 Йоаново",
+    "audio": true,
+    "human_long": "1 Йоаново"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "2JN.1"
+      }
+    ],
+    "usfm": "2JN",
+    "abbreviation": "2 Йоаново",
+    "human": "2 Йоаново",
+    "audio": true,
+    "human_long": "2 Йоаново"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "3JN.1"
+      }
+    ],
+    "usfm": "3JN",
+    "abbreviation": "3 Йоаново",
+    "human": "3 Йоаново",
+    "audio": true,
+    "human_long": "3 Йоаново"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "JUD.1"
+      }
+    ],
+    "usfm": "JUD",
+    "abbreviation": "Юда",
+    "human": "Юда",
+    "audio": true,
+    "human_long": "Юда"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "ROM.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "ROM.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "ROM.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "ROM.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "ROM.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "ROM.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "ROM.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "ROM.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "ROM.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "ROM.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "ROM.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "ROM.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "ROM.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "ROM.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "ROM.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "ROM.16"
+      }
+    ],
+    "usfm": "ROM",
+    "abbreviation": "Римляни",
+    "human": "Римляни",
+    "audio": true,
+    "human_long": "Римляни"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "1CO.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "1CO.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "1CO.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "1CO.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "1CO.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "1CO.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "1CO.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "1CO.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "1CO.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "1CO.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "1CO.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "1CO.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "1CO.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "1CO.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "1CO.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "1CO.16"
+      }
+    ],
+    "usfm": "1CO",
+    "abbreviation": "1 Коринтяни",
+    "human": "1 Коринтяни",
+    "audio": true,
+    "human_long": "1 Коринтяни"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "2CO.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "2CO.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "2CO.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "2CO.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "2CO.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "2CO.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "2CO.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "2CO.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "2CO.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "2CO.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "2CO.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "2CO.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "2CO.13"
+      }
+    ],
+    "usfm": "2CO",
+    "abbreviation": "2 Коринтяни",
+    "human": "2 Коринтяни",
+    "audio": true,
+    "human_long": "2 Коринтяни"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "GAL.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "GAL.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "GAL.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "GAL.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "GAL.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "GAL.6"
+      }
+    ],
+    "usfm": "GAL",
+    "abbreviation": "Галатяни",
+    "human": "Галатяни",
+    "audio": true,
+    "human_long": "Галатяни"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "EPH.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "EPH.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "EPH.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "EPH.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "EPH.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "EPH.6"
+      }
+    ],
+    "usfm": "EPH",
+    "abbreviation": "Ефесяни",
+    "human": "Ефесяни",
+    "audio": true,
+    "human_long": "Ефесяни"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "PHP.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "PHP.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "PHP.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "PHP.4"
+      }
+    ],
+    "usfm": "PHP",
+    "abbreviation": "Филипяни",
+    "human": "Филипяни",
+    "audio": true,
+    "human_long": "Филипяни"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "COL.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "COL.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "COL.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "COL.4"
+      }
+    ],
+    "usfm": "COL",
+    "abbreviation": "Колосяни",
+    "human": "Колосяни",
+    "audio": true,
+    "human_long": "Колосяни"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "1TH.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "1TH.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "1TH.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "1TH.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "1TH.5"
+      }
+    ],
+    "usfm": "1TH",
+    "abbreviation": "1 Солунци",
+    "human": "1 Солунци",
+    "audio": true,
+    "human_long": "1 Солунци"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "2TH.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "2TH.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "2TH.3"
+      }
+    ],
+    "usfm": "2TH",
+    "abbreviation": "2 Солунци",
+    "human": "2 Солунци",
+    "audio": true,
+    "human_long": "2 Солунци"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "1TI.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "1TI.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "1TI.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "1TI.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "1TI.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "1TI.6"
+      }
+    ],
+    "usfm": "1TI",
+    "abbreviation": "1 Тимотей",
+    "human": "1 Тимотей",
+    "audio": true,
+    "human_long": "1 Тимотей"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "2TI.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "2TI.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "2TI.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "2TI.4"
+      }
+    ],
+    "usfm": "2TI",
+    "abbreviation": "2 Тимотей",
+    "human": "2 Тимотей",
+    "audio": true,
+    "human_long": "2 Тимотей"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "TIT.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "TIT.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "TIT.3"
+      }
+    ],
+    "usfm": "TIT",
+    "abbreviation": "Тит",
+    "human": "Тит",
+    "audio": true,
+    "human_long": "Тит"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "PHM.1"
+      }
+    ],
+    "usfm": "PHM",
+    "abbreviation": "Филимон",
+    "human": "Филимон",
+    "audio": true,
+    "human_long": "Филимон"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "HEB.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "HEB.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "HEB.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "HEB.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "HEB.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "HEB.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "HEB.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "HEB.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "HEB.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "HEB.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "HEB.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "HEB.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "HEB.13"
+      }
+    ],
+    "usfm": "HEB",
+    "abbreviation": "Евреи",
+    "human": "Евреи",
+    "audio": true,
+    "human_long": "Евреи"
+  },
+  {
+    "text": true,
+    "canon": "nt",
+    "chapters": [
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "1",
+        "usfm": "REV.1"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "2",
+        "usfm": "REV.2"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "3",
+        "usfm": "REV.3"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "4",
+        "usfm": "REV.4"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "5",
+        "usfm": "REV.5"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "6",
+        "usfm": "REV.6"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "7",
+        "usfm": "REV.7"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "8",
+        "usfm": "REV.8"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "9",
+        "usfm": "REV.9"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "10",
+        "usfm": "REV.10"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "11",
+        "usfm": "REV.11"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "12",
+        "usfm": "REV.12"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "13",
+        "usfm": "REV.13"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "14",
+        "usfm": "REV.14"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "15",
+        "usfm": "REV.15"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "16",
+        "usfm": "REV.16"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "17",
+        "usfm": "REV.17"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "18",
+        "usfm": "REV.18"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "19",
+        "usfm": "REV.19"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "20",
+        "usfm": "REV.20"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "21",
+        "usfm": "REV.21"
+      },
+      {
+        "toc": true,
+        "canonical": true,
+        "human": "22",
+        "usfm": "REV.22"
+      }
+    ],
+    "usfm": "REV",
+    "abbreviation": "Откровение",
+    "human": "Откровение",
+    "audio": true,
+    "human_long": "Откровение"
+  }
+]
